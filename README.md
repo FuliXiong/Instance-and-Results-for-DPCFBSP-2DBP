@@ -1,0 +1,1 @@
+The data comprises instances and results for the distributed prefabricated component flow shop batch scheduling problem with two-dimensional bin packing constraints (DPCFBSP_2DBP). We propose an enhangced combinatorial Benders decomposition method for the DPCFBSP_2DBP 
